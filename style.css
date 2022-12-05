@@ -1,0 +1,48 @@
+@import url('https://fonts.googleapis.com/css2?family=Mukta&family=Mulish:ital,wght@1,300&display=swap');
+/*    font-family: 'Mukta', sans-serif;
+
+    font-family: 'Mulish', sans-serif; */
+
+ body{
+        font-family: 'Mulish', sans-serif; 
+    }
+.nav-link{
+    font-size: 20px;
+    margin-left: 7px;
+    padding: 10px;
+    font-family: 'Mukta', sans-serif;
+    font-weight:lighter;
+    text-transform: uppercase;
+}
+
+.bg-left{
+    background-image:url(/bg-1.png);
+    background-repeat: no-repeat;
+    background-position: left;
+    
+}
+.slider-all img{
+    width: 70%;
+    position: relative;
+    right: 0;
+}
+section{
+    margin-top: 100px;
+}
+
+.smartphone a{
+        text-decoration: none;
+        color: chocolate;
+        font-weight: bold;
+        font-size: 20px;
+}
+#smartphone img{
+    width: 100%;
+}
+.laptop h1{
+    font-weight: bold;
+
+}
+.cat1{
+    margin-left: 5px;
+}
